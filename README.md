@@ -1,9 +1,8 @@
 
-<div align="center">
+<p align="center">
+  <big><big><big><strong>Hey, I'm Alyaa! ✳</strong></big></big></big>
+</p>
 
-<h1>Hey, I'm Alyaa! ✳</h1>
-
-<p>
   <strong>Just one more project and I'll be free, Until then</strong>
 </p>
 
