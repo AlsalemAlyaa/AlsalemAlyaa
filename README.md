@@ -1,25 +1,36 @@
-## مرحبًا 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
-    <img src="assets/banner-light.gif" width="100%" alt="Pouring Saudi coffee — welcome to my profile">
-  </picture>
+
+<!-- About Me -->
+
+<p>
+  <strong>Hey, I'm Alyaa! ✳</strong>
 </p>
 
+<p>
+  I build things, play around with AI, and turn random ideas into projects.
+  <br>
+  Sometimes they work. Sometimes they become bigger projects.
+</p>
 
+<p>
+  <em>Usually working on something I wasn't planning to start.</em>
+</p>
 
-<!--
-**AlsalemAlyaa/AlsalemAlyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Banner -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/banner-dark.gif"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/banner-light.gif"
+    >
+    <img
+      src="assets/banner-light.gif"
+      width="100%"
+      alt="Saudi coffee animation"
+    >
+  </picture>
+</p>
