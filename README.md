@@ -1,21 +1,5 @@
 
-<!-- About Me -->
-
-<p>
-  <strong>Hey, I'm Alyaa! ✳</strong>
-</p>
-
-<p>
-  I build things, play around with AI, and turn random ideas into projects.
-  <br>
-  Sometimes they work. Sometimes they become bigger projects.
-</p>
-
-<p>
-  <em>Usually working on something I wasn't planning to start.</em>
-</p>
-
-<!-- Animated Banner -->
+<p><strong>Hey, I'm Alyaa! ✳</strong></p>
 
 <p align="center">
   <img
