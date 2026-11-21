@@ -9,7 +9,6 @@
   <strong>Just one more project and I'll be free, Until then</strong>
 </p>
 
-
 <p>
   <img
     src="assets/banner.webp"
