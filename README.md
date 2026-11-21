@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
+    <img src="assets/banner-light.gif" width="100%" alt="Pouring Saudi coffee — welcome to my profile">
+  </picture>
+</p>
+
 ## Hi there 👋
 
 <!--
