@@ -1,3 +1,4 @@
+## مرحبًا !! 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
@@ -6,7 +7,7 @@
   </picture>
 </p>
 
-## Hi there 👋
+
 
 <!--
 **AlsalemAlyaa/AlsalemAlyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
