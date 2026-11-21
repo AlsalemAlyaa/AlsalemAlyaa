@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="110" viewBox="0 0 320 110">
+
+  <rect x="55" y="58" width="210" height="24" rx="12" fill="#F5DFC0" transform="rotate(-4 160 70)"></rect>
+
+  <text x="160" y="70" text-anchor="middle" font-family="serif" font-size="52" font-weight="bold" fill="#804B3D" direction="rtl">
+    تقهوى
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.5s" repeatCount="indefinite"></animateTransform>
+  </text>
+
+  <g stroke="#C16B2D" stroke-width="4" stroke-linecap="round">
+    <path d="M38 35 L27 25"></path>
+    <path d="M33 52 L18 50"></path>
+    <path d="M282 35 L293 25"></path>
+    <path d="M287 52 L302 50"></path>
+  </g>
+
+</svg>
