@@ -1,21 +1,17 @@
 
 <div align="center">
 
-<p>
-  <strong>Hey, I'm Alyaa! ✳</strong>
-</p>
+<h1>Hey, I'm Alyaa! ✳</h1>
 
 <p>
-  Just one more project and I'll be free، Until then
+  <strong>Just one more project and I'll be free, Until then</strong>
 </p>
 
 <img
   src="assets/tgahwa.svg"
-  width="220"
+  width="340"
   alt="تقهوى"
 />
-
-<br>
 
 <img
   src="assets/banner.webp"
